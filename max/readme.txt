@@ -1,0 +1,1 @@
+assignment5.py is a python2 script. After start a dialog will ask what heuristic to use. While searching for a solution, the currently visited node and its heuristic is printed to stdout. In the end the number of visited nodes and the runtime is printed.
